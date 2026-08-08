@@ -4,7 +4,7 @@ This is a social media sentiment analytics project analysing Taylor Swift’s Re
 
 ## Project Overview
 
-This project analyses publicly accessible Reddit data to understand Taylor Swift fan activity, engagement, sentiment, discussion topics, and community behaviour, using data analytics and text mining techniques.
+This project analyses publicly accessible Reddit data from May 2025 to May 2026 to understand Taylor Swift fan activity, engagement, sentiment, discussion topics, and community behaviour, using data analytics and text mining techniques.
 
 ## Business Problem
 
