@@ -39,7 +39,7 @@ Insights & PR Recommendations
 
 The project delivers an end-to-end social media analytics solution that transforms Reddit discussions into actionable audience insights using data collection, preprocessing, exploratory analysis, sentiment analysis, topic modelling, and visualisation.
 
-**Skills:** Social Media Analytics · Data Analytics · Text Mining · Sentiment Analysis · Topic Modelling · EDA · Python · Pandas · NumPy · Matplotlib · Seaborn · NLP · Data Visualisation 
+**Skills:** · Python · Social Media Analytics · Data Analytics · Text Mining · Sentiment Analysis · Topic Modelling · Exploratory Data Analysis (EDA) · Pandas · NumPy · Matplotlib · Seaborn · NLP · Data Visualisation 
 
 
 
